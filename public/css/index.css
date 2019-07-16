@@ -50,14 +50,12 @@
     margin:8px 0;
     opacity:1;
     box-sizing: border-box;
-    background-color: transparent;
-    border: 1px solid #ddd;
+    background-color: #fff;
     transition: all .5s;
 }
 
 .bg .pagination .swiper-pagination-bullet-active{
     background-color: #cf0f32;
-    border-color: #cf0f32;
 }
 
 .slide-content{
