@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/neteaseCloudMusic/m/static/css/main.d2e92335.chunk.css",
-    "main.js": "/neteaseCloudMusic/m/static/js/main.3c825655.chunk.js",
-    "main.js.map": "/neteaseCloudMusic/m/static/js/main.3c825655.chunk.js.map",
-    "runtime~main.js": "/neteaseCloudMusic/m/static/js/runtime~main.f88f1156.js",
-    "runtime~main.js.map": "/neteaseCloudMusic/m/static/js/runtime~main.f88f1156.js.map",
-    "static/js/2.ed2ea208.chunk.js": "/neteaseCloudMusic/m/static/js/2.ed2ea208.chunk.js",
-    "static/js/2.ed2ea208.chunk.js.map": "/neteaseCloudMusic/m/static/js/2.ed2ea208.chunk.js.map",
-    "index.html": "/neteaseCloudMusic/m/index.html",
-    "precache-manifest.4a2cc51ea91f1fca25857f5995b95dff.js": "/neteaseCloudMusic/m/precache-manifest.4a2cc51ea91f1fca25857f5995b95dff.js",
-    "service-worker.js": "/neteaseCloudMusic/m/service-worker.js",
-    "static/css/main.d2e92335.chunk.css.map": "/neteaseCloudMusic/m/static/css/main.d2e92335.chunk.css.map",
-    "static/media/player.scss": "/neteaseCloudMusic/m/static/media/disc-ip6.69796123.png",
-    "static/media/site-bottom.scss": "/neteaseCloudMusic/m/static/media/foot-bg.d045fafc.png",
-    "static/media/foot-logo.svg": "/neteaseCloudMusic/m/static/media/foot-logo.dab1a15c.svg",
-    "static/media/search-result.scss": "/neteaseCloudMusic/m/static/media/index_icon.5207a28c.png",
-    "static/media/logo.svg": "/neteaseCloudMusic/m/static/media/logo.ee6c6505.svg",
-    "static/media/thumb.svg": "/neteaseCloudMusic/m/static/media/thumb.523c0ab6.svg"
+    "main.css": "./static/css/main.1cea34ca.chunk.css",
+    "main.js": "./static/js/main.3144cfbe.chunk.js",
+    "main.js.map": "./static/js/main.3144cfbe.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.a87e3bef.chunk.js": "./static/js/2.a87e3bef.chunk.js",
+    "static/js/2.a87e3bef.chunk.js.map": "./static/js/2.a87e3bef.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.241bfad450e5d175d59c934f21bef76e.js": "./precache-manifest.241bfad450e5d175d59c934f21bef76e.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.1cea34ca.chunk.css.map": "./static/css/main.1cea34ca.chunk.css.map",
+    "static/media/player.scss": "./static/media/disc-ip6.69796123.png",
+    "static/media/site-bottom.scss": "./static/media/foot-bg.d045fafc.png",
+    "static/media/foot-logo.svg": "./static/media/foot-logo.dab1a15c.svg",
+    "static/media/search-result.scss": "./static/media/index_icon.5207a28c.png",
+    "static/media/logo.svg": "./static/media/logo.ee6c6505.svg",
+    "static/media/thumb.svg": "./static/media/thumb.523c0ab6.svg"
   }
 }

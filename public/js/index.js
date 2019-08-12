@@ -15,5 +15,25 @@
             siteSlider.slidePrev();
         }
     })
+
+    // video
+    var isPlaying = false;
+    var videoWrapper = document.querySelector('.video-wrapper');
+    var mask = document.querySelector('.video-wrapper .mask');
+    var video = document.querySelector('.video-wrapper .video');
+    mask.addEventListener('click',()=>{
+      if(!isPlaying){
+        isPlaying = true;
+        videoWrapper.classList.add('playing');
+        video.play();
+      }      
+    });
+    video.addEventListener('click',()=>{
+      if(isPlaying){
+        isPlaying = false;
+        videoWrapper.classList.remove('playing');
+        video.pause();
+      }
+    });
 })();
 
